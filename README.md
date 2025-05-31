@@ -1,5 +1,3 @@
-# Model Build for SymptomSentinelAI
-
 # Symptom Sentinel Model
 
 This repository supports the **SymptomSentinelAI** application by providing trained models to detect **ear** and **throat infections** from medical images. It serves as a learning platform for medical image classification using deep learning techniques.
