@@ -31,11 +31,11 @@ To replicate or extend this project:
 	•	Use the datasets provided to train a classification model.
 	•	Experiment with parameters to optimize performance.
 
-##Future Enhancements
+## Future Enhancements
 	•	Data Augmentation: Increase robustness by simulating more clinical scenarios.
 	•	Model Optimization: Explore different CNN architectures and hyperparameters.
 	•	Deployment: Package the final model for integration into mobile or web-based diagnostic applications.
 
-##License
+## License
 
 This project is licensed for educational and research use. Please consult the repository for detailed license information.
