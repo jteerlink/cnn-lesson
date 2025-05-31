@@ -22,3 +22,20 @@ To replicate or extend this project:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/jteerlink/symptom-sentinel-model.git
+2.	**Set Up the Environment**:
+	•	Navigate to the setup/ folder.
+	•	Follow the instructions to install dependencies and configure the environment.
+3.	**Explore the Notebooks**:
+	•	Open the .ipynb files in notebooks/ to view and run preprocessing, training, and evaluation code.
+4.	**Train the Model**:
+	•	Use the datasets provided to train a classification model.
+	•	Experiment with parameters to optimize performance.
+
+##Future Enhancements
+	•	Data Augmentation: Increase robustness by simulating more clinical scenarios.
+	•	Model Optimization: Explore different CNN architectures and hyperparameters.
+	•	Deployment: Package the final model for integration into mobile or web-based diagnostic applications.
+
+##License
+
+This project is licensed for educational and research use. Please consult the repository for detailed license information.
